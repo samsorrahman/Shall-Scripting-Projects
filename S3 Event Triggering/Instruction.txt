@@ -1,0 +1,1 @@
+# To run the project kindly update the relevent information and also keep in mind to configure your aws account with aws cli in your computer.
